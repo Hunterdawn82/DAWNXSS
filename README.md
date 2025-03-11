@@ -35,27 +35,27 @@ Automated Setup
 
 To install all required tools automatically, run:
 
-`chmod +x install.sh`<br>
-`./install.sh`
+`chmod +x dawn`<br>
+`./dawn`
 
 If you prefer a manual setup, use these commands:
 
-    go get -u github.com/tomnomnom/gf
-    go get github.com/tomnomnom/waybackurls
-    GO111MODULE=on go get -v github.com/hahwul/dalfox/v2
-    GO111MODULE=on go get -u -v github.com/lc/gau
-    mkdir -p ~/.gf
-    cp -r $GOPATH/src/github.com/tomnomnom/gf/examples ~/.gf
-    git clone https://github.com/1ndianl33t/Gf-Patterns
-    mv ~/Gf-Patterns/*.json ~/.gf
+   > `go get -u github.com/tomnomnom/gf`<br>
+   > `go get github.com/tomnomnom/waybackurls`<br>
+   > `GO111MODULE=on go get -v github.com/hahwul/dalfox/v2`<br>
+   > `GO111MODULE=on go get -u -v github.com/lc/gau`<br>
+   > `mkdir -p ~/.gf`<br>
+   > `cp -r $GOPATH/src/github.com/tomnomnom/gf/examples ~/.gf`<br>
+   > `git clone https://github.com/1ndianl33t/Gf-Patterns`<br>
+   > `mv ~/Gf-Patterns/*.json ~/.gf`<br>
 
 ## Installing Dawnxss
 
  Clone the Dawnxss repository and prepare the script:
 
-     git clone https://github.com/Hunterdawn82/Dawnxss.git
-     cd Dawnxss
-     chmod +x Dawnxss.sh
+    `git clone https://github.com/Hunterdawn82/Dawnxss.git`
+     `cd Dawnxss`
+    `chmod +x Dawnxss.sh`
 
 ## How to Use
 
