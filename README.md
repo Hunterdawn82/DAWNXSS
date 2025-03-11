@@ -12,14 +12,14 @@ Before getting started with Dawnxss, make sure your system meets the following r
 
 First, install Go:
 
-sudo apt-get update && sudo apt-get install -y golang
+> `sudo apt-get update && sudo apt-get install -y golang`
 
 Then configure your Go environment:
 
-export GOROOT=/usr/lib/go
-export GOPATH=$HOME/go
-export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
-source ~/.bashrc
+`export GOROOT=/usr/lib/go`<br>
+`export GOPATH=$HOME/go`<br>
+`export PATH=$PATH:$GOROOT/bin:$GOPATH/bin`<br>
+`source ~/.bashrc`<br>
 
 2. Essential Tools
 
@@ -36,8 +36,8 @@ Automated Setup
 
 To install all required tools automatically, run:
 
-chmod +x install.sh
-./install.sh
+`chmod +x install.sh`<br>
+`./install.sh`
 
 If you prefer a manual setup, use these commands:
 
