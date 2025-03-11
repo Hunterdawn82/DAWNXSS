@@ -1,0 +1,13 @@
+arjun @ file:///home/rajeev/dawnxss/tools/arjun
+beautifulsoup4==4.13.3
+bs4==0.0.2
+certifi==2025.1.31
+charset-normalizer==3.4.1
+colorama==0.4.6
+dicttoxml==1.7.16
+idna==3.10
+ratelimit==2.2.1
+requests==2.32.3
+soupsieve==2.6
+typing_extensions==4.12.2
+urllib3==2.3.0
