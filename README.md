@@ -1,6 +1,6 @@
 # Dawnxss – XSS Automation Made Easy
 
-Dawnxss is designed to streamline your XSS testing process by tying together several proven tools. By integrating Waybackurls, GF, GF Patterns, Arjun, and Gau, this script helps automate vulnerability scans and enhances your security assessments.
+Dawnxss is designed to streamline your XSS testing process by tying together several proven tools. By integrating Waybackurls, GF, GF Patterns, Arjun, and Gau, this script helps automate parameter scans and enhances your security assessments.
 
 
 # Prerequisites
