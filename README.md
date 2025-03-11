@@ -63,14 +63,15 @@ Dawnxss accepts a target domain along with optional parameters such as a blind X
 
     Basic Scan:
 
-    ./Dawnxss.sh -d target.com
+    ./Dawnxss.sh --target target.com
 
-Using a Blind XSS Payload:
+Scanning with full capacity:
 
-    ./Dawnxss.sh -d target.com -b blindxss.yourpayload.ht
+    Dawnxss --target https://example.com -s --max-pages 200 --output merged_urls.txt --gf --arjun
 
 Saving Results to a File:
 
+    Dawnxss --target https://example.com -s --max-pages 200 --output merged_urls.txt
 
 Combining Options:
 
