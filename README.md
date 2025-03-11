@@ -3,9 +3,7 @@
 Dawnxss is designed to streamline your XSS testing process by tying together several proven tools. By integrating Waybackurls, GF, GF Patterns, Dalfox, and Gau, this script helps automate vulnerability scans and enhances your security assessments.
 
 
-Learn More:
-For comprehensive guidance, visit our official documentation at: Dawnxss Documentation
-Prerequisites
+# Prerequisites
 
 Before getting started with Dawnxss, make sure your system meets the following requirements:
 
