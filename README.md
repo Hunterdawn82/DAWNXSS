@@ -87,9 +87,13 @@ Combining Options:
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
     source ~/.bashrc
 
-## Support & Contributions
+# Support & Contributions
 
 If Dawn has helped you improve your security testing workflow or contributed to your success, please consider supporting the project:
+
+## Buy me a KO-fi 
+
+Ko-fi.com/hunterdawn 
 
 
 
